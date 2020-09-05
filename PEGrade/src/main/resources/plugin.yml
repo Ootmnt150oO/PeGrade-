@@ -1,0 +1,5 @@
+name: Grade
+api: [1.0.0]
+author: yuziouo
+main: cn.nk.yuziouo.Loader
+version: 1.0
